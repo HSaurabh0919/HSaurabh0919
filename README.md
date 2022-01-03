@@ -1,16 +1,29 @@
 ### Hi there 👋
 
 <!--
-**CCsaurabh/CCSaurabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CCsaurabh/CCSaurabh** is my ✨ _special_ ✨ repository.
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on 👨‍💻 
+  * Building novel technologies at Intech Creative Services 
+     * Making cool AI/ML softwares and NLP products
+     * Automating the tedious tasks wherever possible
+     * Reading and Implementing Reasarch Papers 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🌱 In my free time I love �
+  * Watching Animes (`●|_|●´)
+  * Looking at Clouds  ☁ ☁ ☁
+  * Debating on topics 🤼
+  * Reading Poems 📖
+
+### 🤔  I'm currently thinking about 💡
+  * How to develop datasets for my native languages
+  * How to develop Quantum Machine Learning products 
+
+- 👯 I’m looking to collaborate on
+   * Web3 Products
+   
+
+### 📫 How to reach me 💬 
+  * LinkedIn: https://www.linkedin.com/in/saurabh-mishra-12b5a1216/
+
 -->
