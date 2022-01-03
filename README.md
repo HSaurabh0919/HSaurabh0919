@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**CCsaurabh/CCSaurabh** is my ✨ _special_ ✨ repository.
+### Hi there 👋  I am Saurabh and currently data scientist by profession.
 
 ### 🔭 I’m currently working on 👨‍💻 
   * Building novel technologies at Intech Creative Services 
@@ -19,11 +16,11 @@
   * How to develop datasets for my native languages
   * How to develop Quantum Machine Learning products 
 
-- 👯 I’m looking to collaborate on
+### 👯 I’m looking to collaborate on
    * Web3 Products
+   * NLP Tasks
    
 
 ### 📫 How to reach me 💬 
   * LinkedIn: https://www.linkedin.com/in/saurabh-mishra-12b5a1216/
 
--->
