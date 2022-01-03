@@ -6,7 +6,7 @@
      * Automating the tedious tasks wherever possible
      * Reading and Implementing Reasarch Papers 
 
-### 🌱 In my free time I love �
+### 🌱 In my free time I love 
   * Watching Animes (`●|_|●´)
   * Looking at Clouds  ☁ ☁ ☁
   * Debating on topics 🤼
