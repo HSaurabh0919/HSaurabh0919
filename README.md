@@ -1,4 +1,4 @@
-### Hi there 👋  I am Saurabh and Data Scientist by profession.
+### Hi there 👋  I am Saurabh and AI Researcher by profession.
 
 ### 🔭 I’m currently working on 👨‍💻 
   * Building novel technologies at Intech Creative Services 
