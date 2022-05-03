@@ -5,7 +5,7 @@
      * Making cool AI/ML softwares and NLP products
      * Automating the tedious tasks wherever possible
      * Reading and Implementing Reasarch Papers 
-     * Recently working on deep reinforcement learning 
+     * Working on deep reinforcement learning for Optimizations💕 
      
 ### 🌱 In my free time I love 
   * Watching Animes (`●|_|●´)
@@ -24,4 +24,5 @@
 
 ### 📫 How to reach me 💬 
   * LinkedIn: https://www.linkedin.com/in/saurabh-mishra-12b5a1216/
+  
 
