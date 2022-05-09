@@ -20,6 +20,7 @@
 ### 👯 I’m looking to collaborate on
    * Web3 Products
    * NLP Tasks
+   * Reinforcement Learning
    
 
 ### 📫 How to reach me 💬 
