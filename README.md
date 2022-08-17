@@ -1,7 +1,7 @@
 ### Hi there 👋  I am Saurabh and AI Researcher by profession.
 
 ### 🔭 I’m currently working on 👨‍💻 
-  * Building novel technologies at Intech Creative Services 
+  * Building novel technologies 
      * Making cool AI/ML softwares and NLP products
      * Automating the tedious tasks wherever possible
      * Reading and Implementing Reasarch Papers 
