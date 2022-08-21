@@ -18,9 +18,10 @@
   * How to develop Quantum Machine Learning products 
 
 ### 👯 I’m looking to collaborate on
-   * Web3 Products
    * NLP Tasks
    * Reinforcement Learning
+   * Symbolic Regression
+   * Time Series Problems
    
 
 ### 📫 How to reach me 💬 
