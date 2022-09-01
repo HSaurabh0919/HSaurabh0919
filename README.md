@@ -25,7 +25,7 @@
    
 
 ### 📫 How to reach me 💬 
-  * LinkedIn: https://www.linkedin.com/in/saurabh-mishra-12b5a1216/
+  * Email: saurabhm2795@gmail.com
   
 ### 🤔  Some of my beautiful models here 💖
    * https://huggingface.co/epsil
