@@ -5,7 +5,8 @@
      * Making cool AI/ML softwares and NLP products
      * Automating the tedious tasks wherever possible
      * Reading and Implementing Reasarch Papers 
-     * Working on deep reinforcement learning for Optimizations💕 
+     * Working on deep reinforcement learning for Optimizations💕
+     * Chatgpt and open source alternatives
      
 ### 🌱 In my free time I love 
   * Watching Animes (`●|_|●´)
