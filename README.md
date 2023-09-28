@@ -20,6 +20,7 @@
 
 ### 👯 I’m looking to collaborate on
    * NLP Tasks
+   * Generative AI (Stable Diffusion,llama2 and Chatgpt)
    * Reinforcement Learning
    * Symbolic Regression
    * Time Series Problems
