@@ -27,7 +27,7 @@
    
 
 ### 📫 How to reach me 💬 
-  * Email: saurabhm2795@gmail.com
+  * Email: fininfluence@gmail.com
   
 ### 🤔  Some of my beautiful models here 💖
    * https://huggingface.co/epsil
