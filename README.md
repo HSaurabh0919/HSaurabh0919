@@ -7,6 +7,7 @@
      * Reading and Implementing Reasarch Papers 
      * Working on deep reinforcement learning for Optimizations💕
      * Chatgpt and open source alternatives
+     * Working on Multimodal, Reinforcement Learning and Generative AI
      
 ### 🌱 In my free time I love 
   * Watching Animes (`●|_|●´)
