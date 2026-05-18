@@ -21,6 +21,7 @@ I am Saurabh and AI and Machine Learning Consultant by profession having 8+ year
    
 ### 📫 How to reach me 💬 
   * Email: hsaurabh0919@gmail.com
+  * Linkedin : [Link](https://www.linkedin.com/in/saurabh-mishra-12b5a1216/)
   
 ### Some of my beautiful models here 💖
    * https://huggingface.co/epsil
