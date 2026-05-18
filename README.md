@@ -26,7 +26,7 @@ I am Saurabh and AI and Machine Learning Consultant by profession having 8+ year
    * https://huggingface.co/epsil
    
 ### Industry Exposures
-   * Financial Industry
-   * Manufacturing Industry
-   * Supply Chain and Logistics
-   * HR End to End Life Cycle
+  * Financial Services
+  * Manufacturing
+  * Supply Chain & Logistics
+  * HR Technology & End-to-End Employee Lifecycle Management
