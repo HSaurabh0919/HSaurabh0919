@@ -1,4 +1,4 @@
-### Hi there 👋  I am Saurabh and AI Researcher by profession.
+### Hi there 👋  I am Saurabh and AI and Machine Learning Consultant by profession having 8+ years of IT experience.
 
 ### 🔭 I’m currently working on 👨‍💻 
   * Building novel technologies 
@@ -9,26 +9,23 @@
      * Chatgpt and open source alternatives
      * Working on Multimodal, Reinforcement Learning and Generative AI
      
-### 🌱 In my free time I love 
-  * Watching Animes (`●|_|●´)
-  * Looking at Clouds  ☁ ☁ ☁
-  * Debating on topics 🤼
-  * Reading Poems 📖
 
-### 🤔  I'm currently thinking about 💡
-  * How to develop datasets for my native languages
-  * How to develop Quantum Machine Learning products 
-
-### 👯 I’m looking to collaborate on
-   * NLP Tasks
-   * Generative AI (Stable Diffusion,llama2 and Chatgpt)
+### 👯 I provide consultation for : 
+   * NLP and Generative AI
+   * Conventional Machine Learning
+   * Time Series Algorithms
    * Reinforcement Learning
    * Symbolic Regression
-   * Time Series Problems
+   * Optimization Algorithms
    
-
 ### 📫 How to reach me 💬 
   * Email: hsaurabh0919@gmail.com
   
-### 🤔  Some of my beautiful models here 💖
+### Some of my beautiful models here 💖
    * https://huggingface.co/epsil
+   * 
+### Industry Exposures
+   * Financial Industry
+   * Manufacturing Industry
+   * Supply Chain and Logistics
+   * HR End to End Life Cycle
