@@ -1,16 +1,17 @@
-### Hi there 👋  I am Saurabh and AI and Machine Learning Consultant by profession having 8+ years of IT experience.
+### Hi there 👋  
+
+I am Saurabh and AI and Machine Learning Consultant by profession having 8+ years of IT experience.
 
 ### 🔭 I’m currently working on 👨‍💻 
-  * Building novel technologies 
-     * Making cool AI/ML softwares and NLP products
-     * Automating the tedious tasks wherever possible
-     * Reading and Implementing Reasarch Papers 
-     * Working on deep reinforcement learning for Optimizations💕
-     * Chatgpt and open source alternatives
-     * Working on Multimodal, Reinforcement Learning and Generative AI
+   * Making cool AI/ML softwares and NLP products
+   * Automating the tedious tasks wherever possible
+   * Reading and Implementing Reasarch Papers 
+   * Working on deep reinforcement learning for Optimizations💕
+   * Chatgpt and open source alternatives
+   * Working on Multimodal, Reinforcement Learning and Generative AI
      
 
-### 👯 I provide consultation for : 
+### I provide consultation for : 
    * NLP and Generative AI
    * Conventional Machine Learning
    * Time Series Algorithms
@@ -23,7 +24,7 @@
   
 ### Some of my beautiful models here 💖
    * https://huggingface.co/epsil
-   * 
+   
 ### Industry Exposures
    * Financial Industry
    * Manufacturing Industry
